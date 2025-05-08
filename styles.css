@@ -15,7 +15,7 @@ body {
 }
 
 .caixa-maior {
-    background-color: black; /*Trocar cor do fundo*/
+    background-color: black;
     width: 95%; /*Largura*/
     max-width: 420px;
     opacity: 0.8;
