@@ -11,7 +11,11 @@ body {
     align-items: center;
     height: 100vh; /* vh - Altura*/
     width: 100vw; /* vw - Largura*/
-    background-image: url("https://images.unsplash.com/photo-1605975934469-9ddb3e975f0a?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D")
+    background-image: url('https://picsum.photos/1600/900');
+    background-size: cover;       /* cobre toda a tela */
+    background-position: center;  /* centraliza a imagem */
+    background-repeat: no-repeat; /* evita repetição da imagem */
+    margin: 0; 
 }
 
 .caixa-maior {
@@ -84,4 +88,35 @@ h2 {
 .umidade{
     color: white;
     margin-top: 20px;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  .card {
+    width: 70%;
+    padding: 25px;
+  }
+
+  h1 {
+    font-size: 1.8rem;
+  }
+
+  input {
+    font-size: 1rem;
+    width: 100%;
+  }
+}
+
+@media (max-width: 600px) {
+  .card {
+    width: 90%;
+    padding: 15px;
+  }
+
+  h1 {
+    font-size: 1.4rem;
+  }
+
+  input {
+    width: 100%;
+  }
 }
