@@ -1,5 +1,7 @@
 🌦️ Projeto Tempo
 
+<img src="https://raw.githubusercontent.com/ruangomes1/tempo/main/tempo.png" alt="Projeto Tempo" width="100%" />
+
 Aplicação de clima desenvolvida como parte do meu portfólio Front-End. O site exibe informações do clima de forma visual, limpa e responsiva.
 
 🔗 Link do Projeto Online
@@ -21,8 +23,4 @@ Aplicação de clima desenvolvida como parte do meu portfólio Front-End. O site
 - Interface leve e intuitiva
 - Layout responsivo
 - Pronto para produção com deploy contínuo no Netlify
-
-# 🌦️ Projeto Tempo
-
-<img src="https://raw.githubusercontent.com/ruangomes1/tempo/main/tempo.png" alt="Projeto Tempo" width="100%" />
 
