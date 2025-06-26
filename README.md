@@ -22,4 +22,7 @@ Aplicação de clima desenvolvida como parte do meu portfólio Front-End. O site
 - Layout responsivo
 - Pronto para produção com deploy contínuo no Netlify
 
+# 🌦️ Projeto Tempo
+
+<img src="https://raw.githubusercontent.com/ruangomes1/tempo/main/tempo.png" alt="Projeto Tempo" width="100%" />
 
